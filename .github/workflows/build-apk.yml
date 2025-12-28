@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = NFC File Transfer
+title = NFC File Transfer 
 
 # (str) Package name
 package.name = nfcfiletransfer
